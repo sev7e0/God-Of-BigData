@@ -3,13 +3,30 @@
 <img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
 </br>
 
-预计更新500+篇文章，已经更新50+篇~ </br>
-关注[公众号](#公众号),内推,面试,资源下载,关注更多大数据技术~
+已经更新100+篇~ </br>
+关注[公众号](#公众号),BAT大神带你飞~
 </div>
 
 ## 大数据成神之路目录
 
-### Java高级特性增强(多线程,并发,集合等)
+### 大数据开发基础
+| :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
+| :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------:|
+| [Java基础](#Java基础) | [NIO](#NIO基础) | [并发容器](#Java并发容器) |[JVM](#JVM深度解析和面试点) |[分布式](#分布式理论基础和原理) |[zookeeper](#大数据框架开发基础-zookeeper)|[RPC](#大数据框架开发基础-RPC)|[Netty](#大数据框架基石之网路通信-Netty)|[Linux](/Linux基础/Linux基础和命令.md)|
+
+# 扫我关注公众号： #
+
+关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
+
+![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logos/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F%E5%9B%BE.png)
+ 
+ 
+# 扫我加群：  #
+ 备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
+
+ ![小助手微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
+
+### Java基础
  * [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
  * [大数据成神之路-Java高级特性增强(Synchronized关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(Synchronized%E5%85%B3%E9%94%AE%E5%AD%97).md)
  * [大数据成神之路-Java高级特性增强(volatile关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(volatile%E5%85%B3%E9%94%AE%E5%AD%97).md)
@@ -72,7 +89,7 @@
    * [分布式事务的解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
    * [分布式ID生成器解决方案](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/%E5%88%86%E5%B8%83%E5%BC%8FID%E7%94%9F%E6%88%90%E5%99%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
    
-### [大数据框架开发基础-Zookeeper]
+### 大数据框架开发基础-Zookeeper
 
    * [安装和运行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%AE%89%E8%A3%85%E5%92%8C%E8%BF%90%E8%A1%8C.md)
    * [zookeeper服务](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E6%9C%8D%E5%8A%A1.md)
@@ -80,13 +97,25 @@
    * [zookeeper开发实例](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/zookeeeper/zk%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B.md)
    * [zookeeper集群构建](http://www.importnew.com/23237.html)
    
-### [大数据框架开发基础-RPC]
+### 大数据框架开发基础-RPC
 
    * [RPC简单介绍](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D.md)
    * [RPC的原理和框架](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/RPC%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%A1%86%E6%9E%B6.md)
    * [手把手教你实现一个简单的RPC](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/RPC/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84RPC.md)
 
-### [大数据框架基石之网路通信-Netty]
+### 大数据框架基石之网路通信-Netty
+   * [关于Netty我们都需要知道什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/%E5%85%B3%E4%BA%8ENetty%E6%88%91%E4%BB%AC%E9%83%BD%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88.md)
+   * [Netty源码解析-概述篇](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E6%A6%82%E8%BF%B0%E7%AF%87.md)
+   * [Netty源码解析1-Buffer](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%901-Buffer.md) 
+   * [Netty源码解析2-Reactor](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%902-Reactor.md)
+   * [Netty源码解析3-Pipeline](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%903-Pipeline.md)
+   * [Netty源码解析4-Handler综述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%904-Handler%E7%BB%BC%E8%BF%B0.md)
+   * [Netty源码解析5-ChannelHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%905-ChannelHandler.md)
+   * [Netty源码解析6-ChannelHandler实例之LoggingHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%906-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BLoggingHandler.md)
+   * [Netty源码解析7-ChannelHandler实例之TimeoutHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%907-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BTimeoutHandler.md)
+   * [Netty源码解析8-ChannelHandler实例之CodecHandler](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%908-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BCodecHandler.md)
+   * [Netty源码解析9-ChannelHandler实例之MessageToByteEncoder](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Netty/Netty%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%909-ChannelHandler%E5%AE%9E%E4%BE%8B%E4%B9%8BMessageToByteEncoder.md)
+    
 ### [Hadoop三驾马车之Mapreduce]
 ### [Hadoop三驾马车之HDFS]
 ### [Hadoop三驾马车之Yarn]
@@ -97,9 +126,17 @@
 ### [Spark的原理和生产应用(一)]
 ### [Spark的原理和生产应用(二)]
 ### [Spark的原理和生产应用(三)]
-### [Flink当前最火的实时计算引擎(一)]
-### [Flink当前最火的实时计算引擎(二)]
-### [Flink当前最火的实时计算引擎(三)]
+### Flink当前最火的实时计算引擎-入门篇
+   * [Flink从入门到放弃(入门篇1)-Flink是什么](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%871)-Flink%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
+   * [Flink从入门到放弃(入门篇2)-本地环境搭建&构建第一个Flink应用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%872)-%E6%9C%AC%E5%9C%B0%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%26%E6%9E%84%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AAFlink%E5%BA%94%E7%94%A8.md)
+   * [Flink从入门到放弃(入门篇3)-DataSetAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%873)-DataSetAPI.md)
+   * [Flink从入门到放弃(入门篇4)-DataStreamAPI](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83(%E5%85%A5%E9%97%A8%E7%AF%874)-DataStreamAPI.md)
+   * [Flink集群部署](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
+   * [Flink重启策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/6-Flink%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5.md)
+   * [Flink的分布式缓存](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/7-Flink%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
+   
+### Flink当前最火的实时计算引擎-放弃篇
+### Flink当前最火的实时计算引擎-删库跑路篇
 ### [大数据算法(一)]
 ### [大数据算法(二)]
 
