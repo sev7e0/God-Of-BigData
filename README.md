@@ -123,6 +123,15 @@
 ### [离线列式大数据存储-Hbase的原理和亿级数据下的生产应用]
 ### [Nosql之王-Redis高级特性和实现原理]
 ### [分布式消息队列Kafka原理及与流式计算的集成]
+ * [Apache-Kafka简介](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%AE%80%E4%BB%8B.md)
+ * [Apache-Kafka核心概念](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
+ * [Apache-Kafka安装和使用](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
+ * [Apache-Kafka编程实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.md)
+ * [Apache-Kafka核心组件和流程(副本管理器)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B(%E5%89%AF%E6%9C%AC%E7%AE%A1%E7%90%86%E5%99%A8).md)
+ * [Apache-Kafka核心组件和流程-协调器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E5%8D%8F%E8%B0%83%E5%99%A8.md)
+ * [Apache-Kafka核心组件和流程-控制器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%8E%A7%E5%88%B6%E5%99%A8.md)
+ * [Apache-Kafka核心组件和流程-日志管理器](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Kafka/Apache-Kafka%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%92%8C%E6%B5%81%E7%A8%8B-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86%E5%99%A8.md)
+
 ### [Spark的原理和生产应用(一)]
 ### [Spark的原理和生产应用(二)]
 ### [Spark的原理和生产应用(三)]
@@ -134,8 +143,23 @@
    * [Flink集群部署](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
    * [Flink重启策略](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/6-Flink%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5.md)
    * [Flink的分布式缓存](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/7-Flink%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
+   * [Flink中的窗口](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/8-Flink%E4%B8%AD%E7%9A%84%E7%AA%97%E5%8F%A3.md)
+   * [Flink中的Time](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/9-Flink%E4%B8%AD%E7%9A%84Time.md)
+   * [Flink集群搭建的HA](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/10-Flink%E9%9B%86%E7%BE%A4%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8(%E6%90%AD%E5%BB%BA%E7%AF%87%E8%A1%A5%E5%85%85).md)
+   * [Flink中的时间戳和水印](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/11-%E6%97%B6%E9%97%B4%E6%88%B3%E5%92%8C%E6%B0%B4%E5%8D%B0.md)
+   * [Flink广播变量](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/12-Broadcast%E5%B9%BF%E6%92%AD%E5%8F%98%E9%87%8F.md)
+   * [Flink-Kafka-Connector](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/13-Flink-Kafka-Connector.md)
+   * [Flink-Table-&-SQL实战](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/14-Flink-Table-%26-SQL.md)
+   * [15-Flink实战项目之实时热销排行](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/15-Flink%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E4%B9%8B%E5%AE%9E%E6%97%B6%E7%83%AD%E9%94%80%E6%8E%92%E8%A1%8C.md)
+   * [16-Flink-Redis-Sink](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/16-Flink-Redis-Sink.md)
+   * [17-Flink消费Kafka写入Mysql](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink/17-Flink%E6%B6%88%E8%B4%B9Kafka%E5%86%99%E5%85%A5Mysql.md)
    
 ### Flink当前最火的实时计算引擎-放弃篇
+
+   * [Flink漫谈系列1-概述](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(1)-%E6%A6%82%E8%BF%B0.md)
+   * [Flink漫谈系列2-watermark](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(02)-Watermark.md)
+   * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
+
 ### Flink当前最火的实时计算引擎-删库跑路篇
 ### [大数据算法(一)]
 ### [大数据算法(二)]
